@@ -1,0 +1,4 @@
+#Tue Dec 10 16:12:35 GMT 2019
+base.0=C\:\\Users\\csf18tyc\\Documents\\MobileApp-master (2)\\MobileApp-master\\LoginCW\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

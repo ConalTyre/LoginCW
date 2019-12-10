@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LoginCW</string>
+    <string name="login_screen">Welcome to ...</string>
+    <string name="email_txt">Email</string>
+    <string name="password_txt">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="register_tv">Not a member?</string>
+    <string name="register_btn">Register</string>
+    <string name="registerscreen_tv">Register</string>
+    <string name="regscreen_email">Email</string>
+    <string name="regscreen_pw">Password</string>
+    <string name="regscreenconfirm_pw">Confirm Password</string>
+    <string name="regscreen_btn">Register</string>
+    <string name="btnForgotPW">Forgot Password?</string>
+    <string name="tvForgotPW">Forgotten Password</string>
+    <string name="title_activity_output_screen"></string>
+    <string name="title_activity_maps">Map</string>
+    <string name="selectRoutes">Select Route</string>
+    <string name="nextBus">Next Bus</string>
+</resources>
